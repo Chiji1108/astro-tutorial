@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astro-tutorial-2oc.pages.dev/sitemap-index.xml
